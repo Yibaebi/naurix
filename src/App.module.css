@@ -641,6 +641,11 @@
     min-height: 772px;
   }
 
+  .app_header p {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+
   .section.header {
     margin-bottom: 10.75rem;
   }
@@ -727,7 +732,7 @@
     margin-bottom: 0.5rem;
   }
 
-  .horizontal_scroll_text {
+  .app_container .horizontal_scroll_text {
     margin-bottom: 3.3125rem;
   }
 
